@@ -6,6 +6,7 @@
   - [The Document Object Model](https://www.w3schools.com/whatis/whatis_htmldom.asp)
   - [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
   - [Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 - [The Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 - [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp)
 - [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.php)
